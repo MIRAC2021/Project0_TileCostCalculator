@@ -16,7 +16,7 @@ namespace TileCostCalculator
 
             // ask user for shape of the room: rectangle or circle
             Console.Write("Please enter the shape of the room (rectangle or circle): ");
-            string shape = Console.ReadLine();  //will this if/else statement be enough to handle null input or should I add a check for null input?
+            string? shape = Console.ReadLine();  //will this if/else statement be enough to handle null input or should I add a check for null input?
 
             if (shape == rec)
             {

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mehak.chopra\\Documents\\Learning\\Project0_TileCostCalculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81A9A4B9-624F-45B3-85AE-2F2B114B6CCB}|Project0_TileCostCalculator.csproj|c:\\users\\mehak.chopra\\documents\\learning\\project0_tilecostcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81A9A4B9-624F-45B3-85AE-2F2B114B6CCB}|Project0_TileCostCalculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3AC4B5A-309F-A996-2715-185E34A91537}|Project0_TileCostCalculator.csproj|c:\\users\\mehak.chopra\\documents\\learning\\project0_tilecostcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3AC4B5A-309F-A996-2715-185E34A91537}|Project0_TileCostCalculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81A9A4B9-624F-45B3-85AE-2F2B114B6CCB}|Project0_TileCostCalculator.csproj|c:\\users\\mehak.chopra\\documents\\learning\\project0_tilecostcalculator\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{81A9A4B9-624F-45B3-85AE-2F2B114B6CCB}|Project0_TileCostCalculator.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{E3AC4B5A-309F-A996-2715-185E34A91537}|Project0_TileCostCalculator.csproj|c:\\users\\mehak.chopra\\documents\\learning\\project0_tilecostcalculator\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{E3AC4B5A-309F-A996-2715-185E34A91537}|Project0_TileCostCalculator.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,7 @@
               "RelativeToolTip": "README.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-08-09T19:23:52.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-09T19:23:52.399Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\mehak.chopra\\Documents\\Learning\\Project0_TileCostCalculator\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-09T18:46:08.078Z",
               "EditorCaption": ""
